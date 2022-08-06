@@ -1,27 +1,48 @@
 # MovieHouse
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.1.
+This project is created using Angular as frontend and node, express as backend and MongoDb as database.
 
-## Development server
+## Installation
+### Prerequisites
+- Angular CLI <br> 
+- Mongodb <br>
+- Node <br>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Step 1: Clone the git repository <br>
+Step 2: Run `npm install` to install all the dependencies. <br>
+Step 3: Upload the ./src/app/data.json in mongodb compass or create a collection named "movies" and insert all the data using the mongodb
 
-## Code scaffolding
+## Frontend server
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Run `ng serve` for frontend server. Navigate to `http://localhost:4200/`.
 
-## Build
+## Backend server
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Run ` sudo systemctl start mongod` to start monogodb server.<br>
+Run `node ./src/backend/index.js` for backned server from the MovieAdda directory.
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Dependencies used
 
-## Running end-to-end tests
+1 Express: Express is a fast, unopinionated minimalist web framework for Node.js <br>
+- It allows to setup middlewares to respond to HTTP Requests.<br>
+- It defines a routing table which is used to perform different actions based on HTTP method and URL.<br>
+- It allows to dynamically render HTML Pages based on passing arguments to templates.<br>
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+2 cors: Cross-Origin Resource Sharing is a protocol that enables scripts running on a browser client to interact with resources from a different origin. <br>
 
-## Further help
+3 mongoose: Mongoose is an Object Data Modeling (ODM) library for MongoDB and Node. js.
+-  Manages relationships between data, provides schema validation.<br>
+-  Used to translate between objects in code and the representation of those objects in MongoDB <br>
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+4 ng-bootstrap : It is used to open a new modal in angular2+ <br>
+
+5 angular-bootstrap-md: A boostrap module for angular application for making responsive design and some pre ready templates <br>
+
+6 @angular/youtube-player: It is used to play youtube videos in angular applications. <br>
+
+## My Approach to solve the problem
+
+In  dashboard, I have created cards to display movies poster and title where I run for loop, it fetch data by using movie ID from database. On Clicking cards we get a Modal it shows a description about movie that I have received from the card. Now by clicking on modal we will redirect to movie page using angular routing here I am  passing  id of the movie with routing and receives it in movie page and then get the data from back-end using id. I have created an API to fetch json movie object from backend by using movie id.  I am using this API in dashboard and movie page to get all the movies data. In movie page I am playing the movie trailer using the youtube player library.
+
+
