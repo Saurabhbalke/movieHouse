@@ -1,0 +1,26 @@
+<div class="body">
+
+  
+  <youtube-player 
+    videoId="HfQXcV4a8HU" 
+    suggestedQuality="medium" 
+    [height]="460" 
+    [width]="1500" 
+    [startSeconds]="4"
+    [endSeconds]="8">
+  </youtube-player>
+  
+  <div class="container">
+    <h1 class="heading">{{movies.name}}</h1>
+    <h5><small>{{movies.year}}</small> &#183; <small>{{movies.duration}}</small> </h5>
+    <button class="rounded-pill btn me-2 my-2 btn-outline-light" *ngFor="let item of movies.genres">{{item}}</button>
+    <p>{{movies.description}}</p>
+    <p><i class="fas fa-star"></i> 7.8 </p>
+    <hr style="color: white; size:3;">
+    <p> <b class="fw-bold fs-5">Actor </b> <em *ngFor="let item of movies.actors"> {{item}} &#183; </em>  </p>
+    <hr style="color: white; size:3;">
+    <p> <b class="fw-bold fs-5">Director </b> <em > {{movies.director}} &#183; </em>  </p>
+    <hr style="color: white; size:3;">
+    <p> <b class="fw-bold fs-5">Language </b> <em *ngFor="let item of movies.Language"> {{item}} &#183; </em>  </p>
+  </div>
+</div>

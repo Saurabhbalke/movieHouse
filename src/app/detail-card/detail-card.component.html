@@ -1,0 +1,41 @@
+
+  <div class="wrapper">
+    <div class="main_card "(click)="gotoMoviePage()"  >
+      <div class="card_left">
+        <div class="card_datails">
+          <h1 class="fw-bolder fs-3">{{movies.name}}</h1>
+          <div class="card_cat">
+            <p class="year">{{movies.year}}</p>
+            <p class="genre">{{movies.genres[0]}} | {{movies.genres[1]}}</p>
+            <p class="time">{{movies.duration}}</p>
+          </div>
+          <p class="disc">{{ (movies.description.length>200)? (movies.description | slice:0:200)+'..':(movies.description) }}</p>
+          <p style="color: darkcyan;" >Read More</p>
+        <div class="social-btn">
+          <!-- WATCH TRAILER-->
+          <button>
+            <i class="fas fa-play"></i> SEE TRAILER
+          </button>
+          <!-- GET-->
+          <button>
+            <i class="fas fa-download"></i> DOWNLOAD
+          </button>
+          <!--BOOKMARK-->
+          <button>
+            <i class="fas fa-star"></i>
+            {{movies.rating}}
+          </button>
+        </div>	
+        </div>
+      </div>
+      <div class="card_right">
+        <div class="img_container">
+          <img src="{{movies.posterLink}}" alt="">
+          </div>
+        </div>
+      </div>
+    </div>
+  
+  
+  
+  

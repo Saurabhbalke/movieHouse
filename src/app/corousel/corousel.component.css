@@ -1,0 +1,9 @@
+.section-1 {
+    height: 100vh;
+    opacity: .9;
+    display: black;
+    width: 100vw;
+    color: white;
+    box-shadow: inset 0 0 9em 6em #000;
+    background: black url("https://assets.nflxext.com/ffe/siteui/vlv3/c2578c37-8569-4f88-b8f1-67a26a9ddcdd/4f46d201-48d4-40a7-9bfb-8e260d680912/IN-en-20220725-popsignuptwoweeks-perspective_alpha_website_large.jpg")  ;
+}

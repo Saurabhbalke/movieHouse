@@ -1,0 +1,12 @@
+<app-corousel></app-corousel>
+<div class="sector">
+
+    <h1 class="text-center heading p-4" >Explore Treading Movies</h1>
+    
+    <div class="p-5">
+        <div class="box text-center row row-cols-1 g-4 row-cols-md-4 ">
+            <app-card *ngFor="let item of movie " [movieCount]="item"></app-card>
+        </div>
+    </div>
+</div>
+

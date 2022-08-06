@@ -1,0 +1,224 @@
+[{
+    "id": "1",
+    "name": "Avatar",
+    "year": "2009",
+    "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+    ],
+    "duration": "162M",
+    "release": "2009-12-18",
+    "description": "A paraplegic marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.",
+    "actors": [
+        "Sam Worthington",
+        "Zoe Saldana",
+        "Sigourney Weaver",
+        "Stephen Lang"
+    ],
+    "rating": 7.9,
+    "posterLink": "https://m.media-amazon.com/images/I/71lvco8SJAL._AC_SY879_.jpg",
+    "director": "James Cameron",
+    "Language": [
+        "English",
+        "Spanish"
+    ]
+},
+{
+    "id": "2",
+    "name": "I Am Legend",
+    "year": "2007",
+    "genres": [
+        "Drama",
+        "Horror",
+        "Sci-Fi"
+    ],
+    "duration": "101M",
+    "release": "2007-12-14",
+    "description": "years after a plague kills most of humanity and transforms the rest into monsters, the sole survivor in New York City struggles valiantly to find a cure.",
+    "actors": [
+        "Will Smith",
+        "Alice Braga",
+        "Charlie Tahan", 
+        "Salli Richardson-Whitfield"
+    ],
+    "rating": 5.1,
+    "posterLink": "https://www.joblo.com/wp-content/uploads/2007/12/2007-i_am_legend-4-1.jpg",
+    "director": "Francis Lawrence",
+    "Language": [
+        "English"
+    ]
+},
+{
+    "id": "3",
+    "name": "Interstellar",
+    "year": "2014",
+    "genres": [
+        "Drama",
+        "Adventure",
+        "Sci-Fi"
+    ],
+    "duration": "169M",
+    "release": "2014-11-07",
+    "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+    "actors": [
+        "Ellen Burstyn", 
+        "Matthew McConaughey", 
+        "Mackenzie Foy", 
+        "John Lithgow"
+    ],
+    "rating": 7.2,
+    "posterLink": "https://www.joblo.com/wp-content/uploads/2014/09/interstellar_sky-1-scaled.jpg",
+    "director": "Christopher Nolan",
+    "Language": [
+        "English"
+    ]
+},
+{
+    "id": "4",
+    "name": "Game of Thrones",
+    "year": "2011",
+    "genres": [
+        "Adventure",
+        "Drama",
+        "Fantasy"
+    ],
+    "duration": "56M",
+    "release": "2017-12-25",
+    "description": "While a civil war brews between several noble families in Westeros, the children of the former rulers of the land attempt to rise up to power. Meanwhile a forgotten race, bent on destruction, plans to return after thousands of years in the North.",
+    "actors": [
+        "Peter Dinklage", 
+        "Lena Headey", 
+        "Emilia Clarke", 
+        "Kit Harington"
+    ],
+    "rating": 9.0,
+    "posterLink": "https://www.joblo.com/wp-content/uploads/2022/06/house-of-the-dragon-poster-768x1138.jpg",
+    "director": "Alan Taylor",
+    "Language": [
+        "English"
+    ]
+},
+{
+    "id": "5",
+    "name": "Doctor Strange in the Multiverse of Madness",
+    "year": "2022",
+    "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+    ],
+    "duration": "280M",
+    "release": "2022-05-06",
+    "description": "Journey into the unknown in Marvel Studios’ DOCTOR STRANGE IN THE MULTIVERSE OF MADNESS. When the MCU unlocks the Multiverse, Doctor Strange (Benedict Cumberbatch) must enlist help from old and new allies as he traverses mind-bending and dangerous alternate realities in order to confront a surprising adversary.",
+    "actors": [
+        	"Benedict Wong", 
+            "Xochitl Gomez", 
+            "Jett Klyne", 
+            "Julian Hilliard"
+    ],
+    "rating": 7.9,
+    "posterLink": "https://m.media-amazon.com/images/I/61YkRh1qLTL._AC_SX679_.jpg",
+    "director": "Sam Raimi",
+    "Language": [
+        "English"
+    ]
+},
+{
+    "id": "6",
+    "name": "Winchester - House of Ghosts",
+    "year": "2018",
+    "genres": [
+        "Biography",
+        "Fantasy",
+        "Horror"
+    ],
+    "duration": "99M",
+    "release": "2018-02-02",
+    "description": "Inspired by true events. On an isolated stretch of land 50 miles outside of San Francisco sits the most haunted house in the world. Built by Sarah Winchester, (Academy Award\u00ae-winner Helen Mirren) heiress to the Winchester fortune, it is a house that knows no end. Constructed in an incessant twenty-four hour a day, seven day a week mania for decades, it stands seven stories tall and contains hundreds of rooms. To the outsider it looks like a monstrous monument to a disturbed woman's madness. But Sarah is not building for herself, for her niece (Sarah Snook) or for the brilliant Doctor Eric Price (Jason Clarke) whom she has summoned to the house. She is building a prison, an asylum for hundreds of vengeful ghosts, and the most terrifying among them have a score to settle with the Winchesters.",
+    "actors": [
+        "Helen Mirren",
+        "Sarah Snook",
+        "Finn Scicluna-O'Prey"
+    ],
+    "rating": 5.3,
+    "posterLink": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjI2OWE5OGItMTE4Yi00ZmIzLThjZDctNTU1OTMxMTc3Yjg4XkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_SY500_CR0,0,315,500_AL_.jpg",
+    "director": "Michael Spierig",
+    "Language": [
+        "English"
+    ]
+},
+{
+    "id": "7",
+    "name": "Rogue One: A Star Wars Story",
+    "year": "2016",
+    "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+    ],
+    "duration": "143M",
+    "release": "2016-12-16",
+    "description": "In a time of conflict, a group of unlikely heroes band together on a mission to steal the plans to the Death Star, the Empire's ultimate weapon of destruction. All looks lost for the Rebellion against the Empire as they learn of the existence of a new super weapon, the Death Star. Once a possible weakness in its construction is uncovered, the Rebel Alliance must set out on a desperate mission to steal the plans for the Death Star. The future of the entire galaxy now rests upon its success.",
+    "actors": [
+        "Felicity Jones", 
+        "Riz Ahmed", 
+        "Mads Mikkelsen", 
+        "Ben Mendelsohn"
+    ],
+    "rating": 7.4,
+    "posterLink": "https://m.media-amazon.com/images/I/91cHWS+XaoL._AC_SY879_.jpg",
+    "director": "Gareth Edwards",
+    "Language": [
+        "English"
+    ]
+},
+{
+    "id": "8",
+    "name": "Hostiles",
+    "year": "2017",
+    "genres": [
+        "Adventure",
+        "Drama",
+        "Western"
+    ],
+    "duration": "134M",
+    "release": "2018-04-06",
+    "description": "In 1892, a legendary Army captain reluctantly agrees to escort a Cheyenne chief and his family through dangerous territory.",
+    "actors": [
+        "Scott Shepherd",
+        "Rosamund Pike",
+        "Ava Cooper"
+    ],
+    "rating": 7.3,
+    "posterLink": "https://images-na.ssl-images-amazon.com/images/M/MV5BNjFhZjM4ZDYtMGRjYi00Yzc2LWExYmEtMDQ3NzA4ODU4YTljXkEyXkFqcGdeQXVyNjkwMzU3NDI@._V1_SY500_CR0,0,337,500_AL_.jpg",
+    "director": "Scott Cooper",
+    "Language": [
+        "English"
+    ]
+},
+{
+    "id": "9",
+    "name": "The Shape of Water",
+    "year": "2017",
+    "genres": [
+        "Adventure",
+        "Drama",
+        "Fantasy"
+    ],
+    "duration": "123M",
+    "release": "2018-02-14",
+    "description": "From master storyteller Guillermo del Toro comes THE SHAPE OF WATER, an otherworldly fable set against the backdrop of Cold War era America circa 1962. In the hidden high-security government laboratory where she works, lonely Elisa (Sally Hawkins) is trapped in a life of isolation. Elisa's life is changed forever when she and co-worker Zelda (Octavia Spencer) discover a secret classified experiment. Rounding out the cast are Michael Shannon, Richard Jenkins, Michael Stuhlbarg, and Doug Jones.                Written by\nFox Searchlight Pictures",
+    "actors": [
+        "Sally Hawkins",
+        "Octavia Spencer",
+        "Michael Shannon"
+    ],
+    "rating": 7.8,
+    "posterLink": "https://images-na.ssl-images-amazon.com/images/M/MV5BNGNiNWQ5M2MtNGI0OC00MDA2LWI5NzEtMmZiYjVjMDEyOWYzXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_SY500_CR0,0,337,500_AL_.jpg",
+    "director": "Guillermo del Toro",
+    "Language": [
+        "English"
+    ]
+}
+]
