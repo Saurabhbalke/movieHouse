@@ -19,7 +19,7 @@ Run `ng serve` for frontend server. Navigate to `http://localhost:4200/`.
 ## Backend server
 
 Run ` sudo systemctl start mongod` to start monogodb server.<br>
-Run `node ./src/backend/index.js` for backned server from the MovieAdda directory.
+Run `node ./src/backend/index.js` for backned server from the movieHouse directory.
 
 
 ## Dependencies used
